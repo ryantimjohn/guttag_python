@@ -1,0 +1,8 @@
+1. 0, 0
+2. 1, 1
+3. 2, 1
+4. 3, 3
+5. 4, 5 (1st time five goes through)
+6. 5, 7 (2nd time five goes through)
+
+Answer: 5 goes through 2 (two) times 
